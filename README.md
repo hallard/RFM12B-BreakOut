@@ -30,7 +30,7 @@ Everything is documented on this dedicated [post][6]
 
 ![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png)
 
-![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png) ![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)
+![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)&nbsp;![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)
 
 
 
