@@ -10,13 +10,15 @@ this breakout add the feature of one of :
 - **adding** Micro SD card connector
 - **adding** SPI Flash EEProm
 
-**Schematic**
+**Schematic**  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-sch.png)
 
-**Board**
-![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)
+**Board**  
 
 ![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png)
+
+![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)  ![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)
+
 
 
 ArduiPi project is a shield for Raspberry Pi that brings Arduino low level extended I/O to Raspberry Pi.
