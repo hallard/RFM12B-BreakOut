@@ -27,13 +27,9 @@ Everything is documented on this dedicated [post][6]
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-sch.png)
 
 **Board**  
+<center>![board](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png)</center>
 
-![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png)
-
-![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)&nbsp;![boards](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)
-
-
-
+<center>![top](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)</center>
 
 [3]: http://hallard.me/rfm12b-breakout/ 
 [4]: http://hallard.me/arduipi
