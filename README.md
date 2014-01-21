@@ -28,6 +28,10 @@ Everything is documented on this dedicated [post][6]
 
 **Board**  
 ![board]( https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png )
+<center>
+<img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png">
+</center>
+
 
 ->![top](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png)<-
 
