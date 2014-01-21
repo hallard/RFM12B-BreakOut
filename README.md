@@ -9,7 +9,7 @@ can be used anywhere where you use NRF24L01 or has NRF24L01 connector.
 this breakout add the feature of one of : 
 - **adding** Micro SD card connector
 - **adding** SPI Flash EEProm
-
+ 
 
 ArduiPi project is a shield for Raspberry Pi that brings Arduino low level extended I/O to Raspberry Pi.
 
