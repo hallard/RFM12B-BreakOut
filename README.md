@@ -34,27 +34,35 @@ Detailed Description
 
 Everything is documented on this dedicated [post][6]
 
-**Version 1.2**
+# **Version 1.2**  
+
+## Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-sch.png)  
-Boards  
+
+## Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-brd.png" alt="board V1.2" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-top.png" alt="top V1.2" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-bottom.png" alt="bottom V1.2" width="30%" height="30%">
 
-**Version 1.2 SMD connector**
+
+# **Version 1.2 SMD connector**  
+
+## Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-sch.png)  
-Boards  
+## Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-brd.png" alt="board V1.2 SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-top.png" alt="top V1.2 SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-bottom.png" alt="bottom V1.2 SMD" width="30%" height="30%">
 
-**Version 1.1 with SD Card**
+
+# **Version 1.1 with SD Card**  
+
+## Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-sch.png)  
-Boards  
+## Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png" alt="board V1.1" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png" alt="top V1.1" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png" alt="bottom V1.1" width="30%" height="30%">
-
 
 
 [2]: [https://github.com/hallard/RFM69W-BreakOut]
