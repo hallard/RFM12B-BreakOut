@@ -15,7 +15,7 @@ to remove the SD Card holder, so if you want SD use version 1.1.
 
 1.2 version comes in two versions, one with classic 2x4 PTH connector and the other with the same
 but SMD version of the connector, this permit to have the PCB quite the same size of the original
-RFM12B or RFM69CM module size.
+RFM12B or RFM69CM module size. Oh, also these boards are rounded instead of corners.
 
 This has been created to work with the [ArduiPi][4] Project, but this breakout
 can be used anywhere where you use NRF24L01 or has NRF24L01 connector.
@@ -34,32 +34,32 @@ Detailed Description
 
 Everything is documented on this dedicated [post][6]
 
-# **Version 1.2**  
+## **Version 1.2**  
 
-## Schematic  
+### Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-sch.png)  
 
-## Boards  
+### Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-brd.png" alt="board V1.2" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-top.png" alt="top V1.2" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-bottom.png" alt="bottom V1.2" width="30%" height="30%">
 
 
-# **Version 1.2 SMD connector**  
+## **Version 1.2 SMD connector**  
 
-## Schematic  
+### Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-sch.png)  
-## Boards  
+### Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-brd.png" alt="board V1.2 SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-top.png" alt="top V1.2 SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.2-SMD-bottom.png" alt="bottom V1.2 SMD" width="30%" height="30%">
 
 
-# **Version 1.1 with SD Card**  
+## **Version 1.1 with SD Card**  
 
-## Schematic  
+### Schematic  
 ![schematic](https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-sch.png)  
-## Boards  
+### Boards  
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-brd.png" alt="board V1.1" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-top.png" alt="top V1.1" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/RFM12B-BreakOut/master/RFM12B-V1.1-bottom.png" alt="bottom V1.1" width="30%" height="30%">
